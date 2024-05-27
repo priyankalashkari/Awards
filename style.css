@@ -321,6 +321,11 @@ header {
   text-decoration: none;
 }
 
+#footer ul a:hover{
+  color: white;
+  text-decoration: none;
+}
+
 #f4 a {
   color: rgb(231, 195, 52);
   text-decoration: none;
